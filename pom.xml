@@ -17,6 +17,8 @@
         <module>snowflake</module>
         <module>reflect</module>
         <module>jsonFiledTest</module>
+        <module>calculator</module>
+        <module>LearnAspectJ</module>
     </modules>
 
     <dependencyManagement>
